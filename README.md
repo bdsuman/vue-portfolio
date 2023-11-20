@@ -1,11 +1,14 @@
 # vuejs-portofolio
 
 > Portfolio template using VueJs framework.
-#https://bdsuman-vue-portfolio.netlify.app/
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-[//]: # (<img align="center" src="src\assets\Screenshot.png" alt="portfolio-vuejs preview"></img>)
- 
+# https://bdsuman-vue-portfolio.netlify.app/
+
+[//]: # (![Vue]&#40;https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&#41; ![Node.js]&#40;https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&#41; ![Bootstrap]&#40;https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&#41;![Netlify]&#40;https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&#41; ![jQuery]&#40;https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&#41;)
+
+[//]: # ()
+[//]: # ([//]: # &#40;<img align="center" src="src\assets\Screenshot.png" alt="portfolio-vuejs preview"></img>&#41;)
+[//]: # ( )
 ## Features
 
 - Builded with VueJs framework ✨
